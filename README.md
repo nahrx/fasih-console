@@ -16,7 +16,6 @@ Cocok untuk perbaikan data massal (mis. mengubah status keluarga, mengisi nomor 
 | --- | --- |
 | [`console.js`](console.js) | Pustaka utama. Mendefinisikan objek global `FASIH`. |
 | [`example/update keluarga banr - batch.js`](example/update%20keluarga%20banr%20-%20batch.js) | Contoh batch: keluarga "tidak dapat ditemui" (kode 5) → "ditemukan" + BANR, roster anggota keluarga dibentuk dari prelist. |
-| [`example/update SE keluarga banr - batch.js`](example/update%20SE%20keluarga%20banr%20-%20batch.js) | Varian dari contoh di atas. |
 
 ## Prasyarat
 
